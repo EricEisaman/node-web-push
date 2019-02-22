@@ -1,4 +1,4 @@
-# web-push-demo
+# node-web-push
 "Hello, World" with web push in Node.js
 
 ## Remix then:

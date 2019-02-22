@@ -13,7 +13,7 @@ PUBLIC_VAPID_KEY=YourPublicVAPIDKey
 PRIVATE_VAPID_KEY=YourPrivateVAPIDKey
 ```
 
-Edit **public/client.js
+Edit **public/client.js**
 ```
 const publicVapidKey = YOUR PUBLIC VAPID KEY
 ```
